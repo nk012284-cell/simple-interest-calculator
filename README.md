@@ -7,8 +7,8 @@ $$\text{Simple Interest} = \frac{P \times T \times R}{100}$$
 
 ## Inputs
 - **P** / **p**: Principal amount
-- **T** / **t**: Time period in years
-- **R** / **r**: Annual rate of interest
+- **T** / **t**: time period in years
+- **R** / **r**:annual interest rate
 
 ## Output
 - **Simple Interest** = `(p * t * r) / 100`
