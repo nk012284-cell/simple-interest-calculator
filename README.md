@@ -17,3 +17,4 @@ $$\text{Simple Interest} = \frac{P \times T \times R}{100}$$
 Run the script using bash:
 ```bash
 bash simple-interest.sh
+Temporary revert demonstration line.
