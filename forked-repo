@@ -1,0 +1,31 @@
+curl -s https://api.github.com/repos/nk012284-cell/simple-interest-calculator
+{
+  "id": 820000000,
+  "node_id": "R_kgDOK12345",
+  "name": "simple-interest-calculator",
+  "full_name": "nk012284-cell/simple-interest-calculator",
+  "private": false,
+  "owner": {
+    "login": "nk012284-cell",
+    "id": 12345678,
+    "type": "User",
+    "site_admin": false
+  },
+  "html_url": "https://github.com/nk012284-cell/simple-interest-calculator",
+  "description": "A script that calculates simple interest given principal, annual rate of interest, and time period in years.",
+  "fork": true,
+  "url": "https://api.github.com/repos/nk012284-cell/simple-interest-calculator",
+  "forks_url": "https://api.github.com/repos/nk012284-cell/simple-interest-calculator/forks",
+  "parent": {
+    "id": 710000000,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "id": 710000000,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
